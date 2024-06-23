@@ -59,9 +59,7 @@
     ],
     "BACKGROUND_ACCENT": [
       "#8190BC",
-    ],
-    "BACKGROUND_FLOATING": [
-      "#AFC2F8"
+      "#ffffff"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#6579B5",
@@ -101,6 +99,7 @@
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#333333",
+      "#ffffff"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
       "#AFC2F899",
@@ -128,6 +127,7 @@
     ],
     "CHANNELS_DEFAULT": [
       "#D5D5D5",
+      "#ffffff"
     ],
     "CARD_PRIMARY_BG": [
       "#6579B5"
